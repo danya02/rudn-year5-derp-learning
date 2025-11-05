@@ -9,6 +9,9 @@ keras = "*"
 tensorflow = "*"
 ipykernel = "*"
 matplotlib = "*"
+tensorflow-probability = "*"
+tf-keras = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
